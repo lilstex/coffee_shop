@@ -1,0 +1,10 @@
+access_token=
+expires_in=7200
+token_type=Bearer
+--------------------------------------------------------------------------
+https://lilstex.us.auth0.com/authorize?audience=coffee_shop&response_type=token&client_id=JIRlT9BtIa2Lq5BQRTyGvWOGUPmv7cEC&redirect_uri=http://localhost:8100
+
+----------------------------------------------------------------------------
+access_token=
+expires_in=7200
+token_type=Bearer
