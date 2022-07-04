@@ -19,3 +19,5 @@ Werkzeug
 wrapt  
 Flask-Cors 
 python-jose
+flasgger
+python-dotenv
